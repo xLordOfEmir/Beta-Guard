@@ -1,0 +1,18 @@
+{
+
+    "Bot": {
+        "token": "OTU2MjAxNTEwMDUwNjA3MTQ0.YjsyDQ.Zc-rDQyPsz0oHoTYd4PmR7W9QOc",
+        "owner": "953805501194461225",
+        "server": "955637028203155466",
+        "activity": "discord.gg/8TeVdCDsQF"
+    },
+
+    "Guard": {
+        "safezone": [""],
+        "safebots": [""],
+        "jail": "",
+        "booster": "",
+        "log": ""
+    }
+    
+}
